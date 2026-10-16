@@ -25,3 +25,8 @@ odgovor na življenje, vesolje in sploh vse je `42`
 9. Počakajte kakšno minuto, nato si na GitHubu oglejte svojo kopijo repozitorija.
     Ali so se v datoteki `navodila.md` pojavila dodatna navodila?
     Če se tudi po nekaj minutah ne pojavijo, preverite, ali ste v 2. koraku navodil v `README.md` vklopili _Actions_.
+10. Poženite `git pull origin master`, da s strežnika povlečete ta vnos. Čestitke, zgodbo ste uspešno končali!
+
+
+
+<!-- magicnabeseda: tega ne brišite -->
